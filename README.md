@@ -1,13 +1,13 @@
 (https://pbs.twimg.com/profile_images/1199275075528200193/f8kB4gel_400x400.jpg)
 ### Hi there 👋, my name is Minhaj
-#### I am a frontend developer.
+#### I am a front-end developer.
 ![I am a frontend developer.]
-I did a bachelor of engineering degree in Computer Science and Engineering. Now I'm doing a master's in Computer and System Science. Eager to learn new technologies and methodologies. Always willing to innovate new things which can improve the existing technology. Strong motivational and leadership skills. I love to do individual and group-wise work.
+I have a bachelor of engineering degree in Computer Science and Engineering. Now I'm doing a master's in Computer and System Science. Eager to learn new technologies and methodologies. Always willing to innovate new things that can improve the existing technology. Strong motivational and leadership skills. I love to do individual and group work.
 
 Skills: NODE JS/ REACT JS / JS / HTML5 / CSS3/
 
 - 🔭 I’m currently working on React js 
-- 🌱 I’m currently learning ES6 
+- 🌱 I’m currently learning nodeJs
 - 📫 How to reach me: mdminhajulabadin18@gmail.com 
 
 
